@@ -16,7 +16,6 @@ To run the services locally, you need to have Docker installed on your machine.
 
 ### Prerequisites
 
-- Python 3.x
 - Docker
 - Docker Compose
 
